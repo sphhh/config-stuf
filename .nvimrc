@@ -25,7 +25,7 @@ set noexpandtab " evita que o vim converta espaços em tabs
 
 " Exibe tabs e espaços em branco
 set list listchars=tab:»·,trail:·,nbsp:·
-set clipboard=unnamed
+set clipboard=unnamedplus
 set showcmd
 
 " turn absolute line numbers on
